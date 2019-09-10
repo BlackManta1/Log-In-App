@@ -1,7 +1,7 @@
 # Log-In-App
 Log In App Set Up - No Storyboard
 <br>
-Swift 5, iOS 12, Xcode 11
+
 
 ### All have been set programmatically with Collection View
 
@@ -11,3 +11,7 @@ Swift 5, iOS 12, Xcode 11
 <img src="https://user-images.githubusercontent.com/46055179/62839795-d8d2e580-bca0-11e9-96a9-190a210ba401.jpeg" width="250">
 <img src="https://user-images.githubusercontent.com/46055179/62839796-d96b7c00-bca0-11e9-9a5d-6a9626cb3c32.jpeg" width="250">
 </p>
+
+
+### Version
+<i> Swift 5, iOS 12, Xcode 11 </i>
