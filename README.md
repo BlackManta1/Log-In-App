@@ -14,4 +14,4 @@ Log In App Set Up - No Storyboard
 
 
 ### Version
-<i> Swift 5, iOS 12, Xcode 11 </i>
+<i> Swift 5, iOS 12, Xcode 10 </i>
